@@ -1,1 +1,1 @@
-# hackhers2026
+# ruhackhers-2025
